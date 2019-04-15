@@ -46,7 +46,7 @@
                 <version>3.0.0-M3</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/JCPenneyTestRunner.xml</suiteXmlFiles>
+                        <suiteXmlFiles>target/test-classes/TwitterTestRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

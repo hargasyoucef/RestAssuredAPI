@@ -25,7 +25,7 @@ public class TweetsTest {
         tweetsUser.getUserTimeLine();
     }
 
-    @Test
+   // @Test
     public void testCreateTweet(){
         String tweet = "the life is short, so just enjoy it!jjjhjhj! "+ UUID.randomUUID();
         Response response =tweetsUser.createTweet(tweet);
@@ -34,7 +34,7 @@ public class TweetsTest {
         Assert.assertEquals(200, response.getStatusCode());
     }
 
-    @Test
+//    @Test
     public void testCannotTweetSameTweetTwiceInRow()throws Exception{
         String tweet = "the life is short, so just enjoy it!! "+ UUID.randomUUID();
         Response response =tweetsUser.createTweet(tweet);
@@ -44,7 +44,7 @@ public class TweetsTest {
         Assert.assertEquals(403, response.getStatusCode());
     }
 
-    @Test(dependsOnMethods = {"testCreateTweet"})
+//    @Test(dependsOnMethods = {"testCreateTweet"})
     public void testUserCanDeleteTweet(){
         Response response = this.tweetsUser.deleteTweet(this.tweetID);
         response.then().statusCode(HttpStatus.SC_OK);
