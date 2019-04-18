@@ -3,50 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c53abec-ea7d-4b9d-8ece-0cec408f1719" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/Twetter-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/classes/tweets/TweetsUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/classes/user/BaseTwitterUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/2019-04-15T18-04-22_839-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/2019-04-15T18-22-13_576-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/2019-04-15T18-23-59_787-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/Rest Assured Test suite/Go to Home page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/Rest Assured Test suite/Go to Home page.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/Rest Assured Test suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/junitreports/TEST-API.Test.TweetsTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/Go to Home page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/Rest Assured Test suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/test-classes/API/Test/TweetsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twetter/target/test-classes/TwitterTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Twetter/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            <state relative-caret-position="471">
+              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -190,7 +146,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="703" />
     <option name="width" value="829" />
     <option name="height" value="1039" />
@@ -301,7 +257,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555539156951" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555546013646" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Samir Final Test/Team10FrameWork" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -461,7 +417,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85125446" visible="true" weight="0.23959732" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85125446" visible="true" weight="0.23959732" />
       <window_info id="Structure" order="1" sideWeight="0.14874552" side_tool="true" visible="true" weight="0.23959732" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -475,7 +431,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20963173" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20963173" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -552,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Twetter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+        <state relative-caret-position="471">
+          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
         </state>
       </provider>
     </entry>
